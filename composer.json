@@ -1,0 +1,22 @@
+{
+    "name": "lifeentity/dbsynchronize",
+    "description": "Easy way to synchronize database tables.",
+    "authors": [
+        {
+            "name": "Kareem Mohamed",
+            "email": "kareem3d.a@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "laravel/framework": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Lifeentity\\Dbsynchronize": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "license": "MIT"
+}
